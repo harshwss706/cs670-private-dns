@@ -1,0 +1,5 @@
+tenseal>=0.3.16,<0.4
+dnspython>=2.6,<3
+requests>=2.32,<3
+numpy>=1.26,<3
+pytest>=8,<10
